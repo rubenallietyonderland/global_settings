@@ -1,0 +1,10 @@
+object_type: global_settings
+overrides:  
+    "xmla.auth.token.enabled" : True
+    "aggregates.create.partition.hintedAggregate.enabled" : True
+    "soap.xpress.enabled" : True
+    "query.language.mdx.dimquery.result.limit" : 50
+    "xmla.discover.properties.daxdialect": tabular
+    "query.includeComments.general.queryId" : True
+    "query.includeComments.general.userId" : True 
+    "aggregates.configuration.maximum_concurrent_materializations" : 5
