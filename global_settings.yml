@@ -8,3 +8,4 @@ overrides:
     "query.includeComments.general.queryId" : True
     "query.includeComments.general.userId" : True 
     "aggregates.configuration.maximum_concurrent_materializations" : 5
+    "catalog.deployment.restriction.enabled" : True
